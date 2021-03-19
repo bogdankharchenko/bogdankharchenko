@@ -10,5 +10,4 @@ the tech
 - laravel ecosystem
 - js, jquery💔, react, alpine, vue
 - aws - lambdas, sam, rest api, dynamo, ec2, rds
-- docker, circleci, stripe
-- ...
+- docker, circleci, stripe, pusher
