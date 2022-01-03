@@ -5,6 +5,7 @@ the side projects
 - [capturely.app](https://capturely.app) - [puppeteer](https://pptr.dev) on demand
   * [laravel-package](https://github.com/capturely/capturely-laravel) - easily use capturely.app
 - [trackdaytoday.com](https://trackdaytoday.com) - find local motorcycle track days
+- [typed laravel settings](https://github.com/bogdankharchenko/typed-laravel-settings) - strongly typed laravel settings
 
 the tech
 - laravel ecosystem
